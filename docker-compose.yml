@@ -3,4 +3,4 @@ services:
   simplescalar:
     build: ./simplescalar 
     volumes:
-      - ./simplescalar:/lab
+      - ./lab:/lab
